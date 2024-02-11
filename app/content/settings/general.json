@@ -1,10 +1,10 @@
 {
-  "title": "Homev",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Livin - I’m a graphic designer, UX/UI designer & front-end web developer.\n\nWorking at the Intersection of Web and Design to Create Experiences That Delight, Inspire.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+  "title": "",
+  "titleTemplate": "Livin",
+  "welcomeText": "# Hey, I'm Livin \nI’m a graphic designer, UI/UX designer & front-end web developer.\n\nWorking at the Intersection of Web and Product Design to Create Experiences That Delight, Inspire and Shape the Future of the Internet.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "",
   "seoMetaImage": ""
 }
